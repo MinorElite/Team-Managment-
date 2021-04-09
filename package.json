@@ -1,0 +1,19 @@
+{
+  "name": "02-Homework",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "script.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
